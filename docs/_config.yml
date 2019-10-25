@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+
+title: "Unity Projectiles"
+description: "Framework for Projectiles in Unity"
+show_downloads: true
